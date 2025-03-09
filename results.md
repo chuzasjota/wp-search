@@ -5,10 +5,10 @@ Este documento presenta los resultados de varias búsquedas realizadas. Se inclu
 ## 📷 Imágenes de los Resultados
 
 ### 1️⃣ Resultado palabra Conaf
-![Resultado 1](https://mizucode.com/wp-search/resultado1.png)
+![Resultado 1](https://mizucode.com/wp-search/resultado3.png)
 
 ### 2️⃣ Resultado palabra cites
 ![Resultado 2](https://mizucode.com/wp-search/resultado2.png)
 
 ### 3️⃣ Resultado palabra resultados, modificación de la cantidad en 10
-![Resultado 3](https://mizucode.com/wp-search/resultado3.png)
+![Resultado 3](https://mizucode.com/wp-search/resultado1.png)
